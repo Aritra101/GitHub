@@ -1,2 +1,2 @@
 # GitHub
-This Repo Contains Notes about GitHub
+This Repository Contains Notes about GitHub
